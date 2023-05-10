@@ -1,0 +1,54 @@
+#navbar a.active{
+color: red;
+}
+.link-header img{
+width: 100%;
+height: 500px;
+}
+.link-header{
+    height: 500px;
+}
+.link-header h1{
+left: 25%;
+    
+}
+.link-col img{
+    width:100%;
+}
+.link-colone{
+
+}
+.coltwo img{
+width: 110%;
+height: 77%;
+}
+.colfour img{
+    width: 100%;
+}
+.col-purp{
+background-color: #d5b3ff;
+height: 850px;
+}
+.coldark{
+    background-color: black;
+    height: 850px;
+}
+.colpara{
+    width:60%;
+}
+.colpar{
+    width: 45%;
+}
+.coltwo{
+position: relative;
+ left: 0%;
+}
+.colthree img{
+    width: 100%;
+}
+.colthre img{
+    width: 113%;
+}
+.colthre{
+    right: 7%;
+}

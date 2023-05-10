@@ -1,0 +1,26 @@
+.rotate{
+    transform: rotate(90deg);
+    margin: 0;
+    padding:00 3px;
+}
+.pad{
+    padding-right: 11px;
+}
+.nas{
+    display: flex;
+    justify-content: space-between;
+}
+#navbar a.active{
+color: red;
+}
+#navbar a{
+    text-decoration: none;
+    color:black ;
+}
+#navbar a.navbuy{
+    color: blue;
+}
+
+#navbar a.nav-buy{
+    color: red;
+}

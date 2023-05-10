@@ -1,0 +1,159 @@
+body{
+    font-family: 'Roboto', Arial, Helvetica, sans-serif
+}
+.box-header{
+    font-size: 4em;
+}
+.fig img{
+    width: 100%;
+}
+.play-icon{
+    color: blue;
+}
+.tryLive{
+    background-color: rgba(255, 255, 0, 0.698);
+}
+.live-box{
+    height: 300px;
+}
+
+.contain{
+    width: 100%;
+
+}
+.contain img{
+    height: 550px;
+    width: 100%;
+}
+
+.live-row img, .vid-box img{
+filter: brightness(50%);
+width: 95%;
+margin: 1em;
+}
+.play{
+    font-size: 7em;
+}
+.rec{
+    height: 85%;
+}
+.experiment{
+    background-color: #b6ffc088;
+    
+}
+
+#navbar a{
+    text-decoration: none;
+    color:black ;
+}
+
+#navbar a.navbuy{
+    color: blue;
+}
+.help-header{
+    font-size: 4rem;
+}
+.nav-buy{
+    color: blue;
+}
+.experiment h1{
+    font-size: 4em;
+    font-weight: 700;
+}
+.live-btn{
+    width: 80%;
+    border: 2px solid blue;
+}
+.experiment i, .play-div i{
+ 
+    color: white;
+}
+.exp-img img{
+    height: 180px;
+    width: 100%;
+} 
+.play-div, .play-divs, .play-divss{
+display: flex;
+align-items: center;
+justify-content: center;
+    width: 25px;
+}
+.play-divs{
+    position: absolute;
+    bottom: 37%;
+}
+
+.features{
+    height: 300px;
+}
+.play-divss{
+    position: absolute;
+    bottom: 40%;
+}
+.sound h1,
+.stage h1,
+.live-box h1 {
+    font-size: 5em;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.music-img img, .tryfree img{
+width: 100%;
+}
+.sound{
+    background-color: #ff774d68;
+    
+}
+    
+header{
+height: 500px;
+}
+.what-box{
+    background-color: rgba(64, 224, 208, 0.457);
+}
+.wha-box{
+    background-color: #ff774d89;
+}
+.header-title{
+    font-size: 5rem;
+}
+.header-img{
+    height: 600px;
+    width: 100%;
+}
+.header-img img{
+    width: 100%;
+    height: 100%;
+}
+
+.music-col img{
+    width: 100%;
+}
+.cols, .colss, .cols1, .cols2{
+    width: 50%;
+    height: 80%;
+    background-color: rgba(255, 255, 0, 0.559);
+}
+.colss{
+    
+    background-color: rgba(255, 119, 77, 0.593);
+}
+.cols1{
+    background-color: plum;
+}
+.cols2{
+    background-color: teal;
+}
+ video{
+    width: 50%;
+    height: 120%;
+}
+.col-box{
+    width: 100%;
+    height: 250px;
+}
+.plays{
+ font-size: 6rem;
+ color: blue;   
+}

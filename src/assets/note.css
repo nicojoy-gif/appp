@@ -1,0 +1,63 @@
+.note-colored{
+    background-color: rgba(64, 224, 208, 0.67);
+    height: 550px;
+}
+.vid-box video{
+    width: 100%;
+    
+    filter: brightness(50%);
+}
+.vid-box h1{
+    color: yellow;
+    font-size: 8rem;
+}
+
+.vid-box div{
+    
+}
+.note-img{
+    top: 15%;
+}
+.column-one div{
+    width: 65%;
+    height: 350px;
+}
+.column-one{
+    background-color: #b6ffc0b9;
+    
+            
+}
+.col-img img, .col-imgs img{
+    width: 100%;
+}
+.col-img p, .col-imgs p{
+    background-color: #b6ffc0b9;
+    
+}
+.col-imgs{
+    position:relative;
+    bottom: 15%;
+}
+ .col-para{
+    width: 65%;
+ }
+ .note-para{
+    width: 65%;
+ }
+
+ .note-vid video{
+    width: 19%;
+    height: 350px;
+ }
+ .note-vid{
+    position: absolute;
+    top: 50%;
+    
+    left: 37%;
+ }
+ .note-yel{
+    background-color: #fbffa7;
+ }
+ .note-light{
+    background-color: rgba(251, 255, 168, 0.741);
+ }

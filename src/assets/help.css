@@ -1,0 +1,18 @@
+.help-img{
+    height: 500px;
+    padding: 3rem 0;
+}
+.help-img img{
+    height: 75%;
+}
+
+#navbar a.active{
+color: red;
+}
+#navbar a{
+    text-decoration: none;
+    color:black ;
+}
+.help-header{
+    font-size: 4rem;
+}
