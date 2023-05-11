@@ -27,17 +27,17 @@ function About() {
 
       <section className="my-5">
         <p className="fw-semibold fs-3 m-auto para py-5">
-          We make
+          We make 
           <Link to="/live" className="links text-danger">
             Live 
           </Link>
-          ,
+           , 
             
           <Link to="/push" className="links">
-            Push 
+             Push  
           </Link>
 
-          and
+           and 
           <Link to="/link" className="links">
             Link 
           </Link>
