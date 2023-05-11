@@ -29,17 +29,19 @@ function About() {
         <p className="fw-semibold fs-3 m-auto para py-5">
           We make
           <Link to="/live" className="links text-danger">
-            Live
+            Live 
           </Link>
           ,
+            
           <Link to="/push" className="links">
-            Push
+            Push 
           </Link>
+
           and
           <Link to="/link" className="links">
-            Link
+            Link 
           </Link>
-          <i class="fa-solid fa-dash"></i> unique software and hardware for
+          <i class="fa-solid fa-minus"></i> unique software and hardware for
           music creation and performance. With these products, our community of
           users creates amazing things.
         </p>
